@@ -1,0 +1,9 @@
+{
+  "name": "world-trend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "cp index.html styles.css build/",
+    "dev": "npx serve ."
+  }
+}
